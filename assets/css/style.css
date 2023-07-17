@@ -224,3 +224,19 @@ margin-left: 10px;
 .pt-49{
     padding-top: 49px;
 }
+.emailad{
+    color: var(--colors-heading, #1E0E62);
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+}
+.phonead{
+    color: var(--colors-heading, #1E0E62);
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; 
+}
