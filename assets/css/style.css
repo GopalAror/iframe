@@ -106,6 +106,7 @@ line-height: 26px;
     width: 370px;
 height: 230px;
 flex-shrink: 0;
+margin-top: 34px;
 }
 .p3{
     color: var(--colors-heading, #1E0E62);
@@ -219,4 +220,7 @@ font-style: normal;
 font-weight: 500;
 line-height: 26px; 
 margin-left: 10px;
+}
+.pt-49{
+    padding-top: 49px;
 }
